@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>IPTV Premium</title>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; background: #111; color: #fff; }
+    header { background: url('https://i.imgur.com/9d6F8wv.jpg') no-repeat center center/cover; padding: 80px 20px; text-align: center; }
+    header h1 { font-size: 40px; color: #fff; text-shadow: 2px 2px 4px #000; }
+    header p { font-size: 20px; margin: 20px 0; }
+    .cta { background: #e50914; color: white; padding: 15px 30px; border-radius: 8px; font-size: 18px; text-decoration: none; display: inline-block; }
+
+    section { padding: 50px 20px; max-width: 1000px; margin: auto; }
+    .benefits, .plans, .testimonials, .channels { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
+
+    .card { background: #222; padding: 30px; border-radius: 10px; width: 280px; box-shadow: 0 0 10px #000; }
+    .card h3 { color: #fbc531; }
+
+    .channels img { width: 100%; border-radius: 5px; }
+    .footer { background: #000; color: #aaa; text-align: center; padding: 30px 20px; font-size: 14px; }
+
+    a.whatsapp-fixed {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: #25d366;
+      color: white;
+      padding: 15px 20px;
+      border-radius: 50px;
+      font-weight: bold;
+      text-decoration: none;
+      box-shadow: 0 0 10px #000;
+      z-index: 999;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>IPTV Premium – Mais de 20.000 Canais e Filmes</h1>
+  <p>Assista tudo sem travar, com qualidade HD e suporte total.</p>
+  <a class="cta" href="https://wa.me/5524992748046" target="_blank">TESTAR AGORA – 30 Minutos Grátis</a>
+</header>
+
+<section>
+  <h2 style="text-align:center;">🔥 Benefícios do Nosso IPTV</h2>
+  <div class="benefits">
+    <div class="card"><h3>+20.000 Canais</h3><p>Inclui esportes, filmes, novelas, adultos, kids e muito mais.</p></div>
+    <div class="card"><h3>Full HD / 4K</h3><p>Qualidade máxima para curtir na sua Smart TV, celular ou TV Box.</p></div>
+    <div class="card"><h3>Suporte 24h</h3><p>Atendimento rápido via WhatsApp, sempre disponível para você.</p></div>
+  </div>
+</section>
+
+<section style="background:#1c1c1c;">
+  <h2 style="text-align:center;">💰 Planos Especiais</h2>
+  <div class="plans">
+    <div class="card"><h3>Mensal</h3><p>R$ 35,00</p><p>Ideal para testar o serviço com acesso total.</p></div>
+    <div class="card"><h3>Trimestral</h3><p>R$ 90,00</p><p>Economia de R$ 15 com mais estabilidade.</p></div>
+    <div class="card"><h3>Anual</h3><p>R$ 299,00</p><p>Assista o ano inteiro sem se preocupar.</p></div>
+  </div>
+</section>
+
+<section>
+  <h2 style="text-align:center;">📺 Alguns dos Canais Disponíveis</h2>
+  <div class="channels">
+    <img src="https://i.imgur.com/KnzqP8V.jpg" alt="Canais IPTV">
+  </div>
+</section>
+
+<section style="background:#1c1c1c;">
+  <h2 style="text-align:center;">❤️ Clientes Satisfeitos</h2>
+  <div class="testimonials">
+    <div class="card"><p>“Assisto meus jogos favoritos sem travar. Melhor serviço IPTV!”<br><br>– João, RJ</p></div>
+    <div class="card"><p>“Adorei o suporte. Me ajudaram a instalar no celular em 5 minutos.”<br><br>– Carla, MG</p></div>
+  </div>
+</section>
+
+<section style="text-align:center;">
+  <h2>🔐 Garantia e Teste Grátis</h2>
+  <p>Você pode testar por 30 minutos gratuitamente antes de contratar.</p>
+  <a class="cta" href="https://wa.me/5524992748046" target="_blank">CLIQUE PARA TESTAR AGORA</a>
+</section>
+
+<footer class="footer">
+  <p>Este site não hospeda conteúdo. Oferecemos acesso à tecnologia IPTV.</p>
+  <p>WhatsApp: (24) 99274-8046</p>
+</footer>
+
+<a class="whatsapp-fixed" href="https://wa.me/5524992748046" target="_blank">💬 Fale Conosco</a>
+
+</body>
+</html>
